@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
 import profileImg from "../assets/pro.jpg";
 // Import the PDF directly
-import cvPDF from "../assets/Danuja Dewnith CV (2026.04.12).pdf";
+import cvPDF from "../assets/Danuja _Dewnith_CV_(2026,04,12).pdf";
 
 const roles = [
   "Full Stack Developer",
